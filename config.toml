@@ -1,0 +1,10 @@
+fork = true
+frame = "buttonless"
+tabs = true
+theme = "auto"
+title-hidden = true
+vsync = true
+no-multigrid = true
+[font]
+normal = ["PragmataProMonoLiga Nerd Font"]
+size = 19.0
